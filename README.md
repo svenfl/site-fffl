@@ -1,6 +1,6 @@
 site-fffl
 =========
-<b>This Branch is obsolete! Please use branch 2016.1_usb instead</b>
+<b>This Branch is obsolete! Please use branch 2016.1_usb instead</b><br />
 This repository contains the site.conf and other configuration files for the Gluon-Firmware. For further Information (in German) please go to http://wiki.freifunk-flensburg.de/index.php?title=Gluon and read the article. <br />
 <b>Warning: This Branch contains higly experimental USB Support for Routers with 8 MB flash memory</b>
 
