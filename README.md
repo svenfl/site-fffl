@@ -1,14 +1,15 @@
 site-fffl
 =========
-
+<b>This Branch is obsolete! Please use branch 2016.1_usb instead</b>
 This repository contains the site.conf and other configuration files for the Gluon-Firmware. For further Information (in German) please go to http://wiki.freifunk-flensburg.de/index.php?title=Gluon and read the article. <br />
 <b>Warning: This Branch contains higly experimental USB Support for Routers with 8 MB flash memory</b>
 
-Changelog for Stable-Version "2015.2.0-0"
+Changelog for Stable-Version "2015.2.0-0" (version obsolete !!!)
 -----------------------------------------
 Version is experimental at the moment
 * firmware based on gluon master (should be corrected if version v2015.2.x is released)
 * support for mesh using 11s protocol instead of adhoc mode is implemented
+* support for TL WR 841 N/ND v10
 
 Changelog for Stable-Version "2015.1.2-0"
 -----------------------------------------
