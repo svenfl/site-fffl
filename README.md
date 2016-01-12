@@ -1,6 +1,6 @@
 site-fffl
 =========
-
+<b> This branch is obsolete!!! Please use branch 2016.1.x instead</b><br />
 This repository contains the site.conf and other configuration files for the Gluon-Firmware. For further Information (in German) please go to http://wiki.freifunk-flensburg.de/index.php?title=Gluon and read the article.
 
 Changelog for Stable-Version "2015.2.0-0"
