@@ -3,11 +3,14 @@ site-fffl
 
 This repository contains the site.conf and other configuration files for the Gluon-Firmware. For further Information (in German) please go to http://wiki.freifunk-flensburg.de/index.php?title=Gluon and read the article.
 
-Changelog for Stable-Version "2015.2.0-0"
+Changelog for Stable-Version "2016.1.0-0"<br />
+formerly announced as "2015.2.0-0"
 -----------------------------------------
 Version is experimental at the moment
 * firmware based on gluon master (should be corrected if version v2015.2.x is released)
 * support for mesh using 11s protocol instead of adhoc mode is implemented
+* support for TL841 N/ND v10 added
+* New status page for router added
 
 Changelog for Stable-Version "2015.1.2-0"
 -----------------------------------------
