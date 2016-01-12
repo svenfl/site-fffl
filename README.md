@@ -4,7 +4,7 @@ site-fffl
 This repository contains the site.conf and other configuration files for the Gluon-Firmware. For further Information (in German) please go to http://wiki.freifunk-flensburg.de/index.php?title=Gluon and read the article. <br />
 <b>Warning: This Branch contains higly experimental USB Support for Routers with 8 MB flash memory</b>
 
-Changelog for Stable-Version "2015.2.0-0"
+Changelog for Stable-Version "2016.1.0-0"<br />formerly announced as "2015.2.0-0"
 -----------------------------------------
 Version is experimental at the moment
 * firmware based on gluon master (should be corrected if version v2015.2.x is released)
