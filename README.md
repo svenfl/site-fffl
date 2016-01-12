@@ -7,7 +7,7 @@ This repository contains the site.conf and other configuration files for the Glu
 Changelog for Stable-Version "2016.1.0-0"<br />formerly announced as "2015.2.0-0"
 -----------------------------------------
 Version is experimental at the moment
-* firmware based on gluon master (should be corrected if version v2015.2.x is released)
+* firmware based on gluon master (should be corrected if version v2016.1.x is released)
 * support for mesh using 11s protocol instead of adhoc mode is implemented
 * added support of TL 841 N/ND v10
 * added new statuspage for the routers
